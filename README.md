@@ -1,3 +1,2 @@
 # charity
-=========
-a slack bot implementation using node.js, express, and [wit.ai](https://wit.ai).
+a [slack bot](https://api.slack.com/bot-users) implementation featuring [wit.ai](https://wit.ai).
